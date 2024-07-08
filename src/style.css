@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+.dark-theme .calculator {
+    background-color: #333333;
+}
